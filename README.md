@@ -66,7 +66,7 @@ Erstellung kleiner mobiler Anwendungen zur Alltagsunterstützung.
 
 ## 📫 Kontakt & Links
 
-- 📧 emirkaya3610@gmail.com  
+- 📧 EmirKaya19@outlook.de
 - 💼 [LinkedIn](https://www.linkedin.com/in/emir-kaya-5b6a82323)
 
 ---
