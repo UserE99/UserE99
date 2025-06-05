@@ -57,7 +57,6 @@ Erstellung kleiner mobiler Anwendungen zur Alltagsunterstützung.
 ## 🧠 Aktuell beschäftige ich mich mit
 
 - Realtime-Mechaniken in Multiplayer-Webspielen (Capture the Flag)  
-- Frontend-Optimierung mit React & TypeScript durch kleine Projekte (1–2 Tage Umsetzungszeit)  
 - Einstieg in Game-Development mit **C# in Unity** (z. B. einfache Kamera- und Bewegungslogik)  
 - Clean Code & Testabdeckung in Node.js  
 
